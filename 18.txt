@@ -4,3 +4,4 @@ Loaders info
 Support user
 Repo info
 Client info
+Commit
